@@ -1,0 +1,9 @@
+Order,Study,Date,Doses,Ages,Effectiveness,ve_death_minus_error,ve_death_plus_error
+1,"Dagan et al., Apr-21",21-Apr,2 vs 0 Doses (>16yo) Matched,>16 years,0.72,0.52,0.28
+2,"Arbel et al, Dec-21",21-Dec,3 vs 2 Doses (>50yo) Adjusted,>50 years,0.9,0.04,0.03
+3,Arbel et al Dec-21 Study,21-Dec,3 vs 2 Doses (>50yo) Unadjusted 94.6%,>50 years,0.946,,
+4,"Barda et al, Dec-21",21-Dec,3 vs 2 Doses (>12yo) Matched,">12, median age 52",0.81,0.22,0.16
+5,"Arbel et al, Apr-22",22-Apr,4 vs 3 Doses (>60yo) Adjusted,60-100,0.78,0.06,0.05
+6,"Magen et al, Apr-22",22-Apr,4 vs 3 Doses (>60yo) Matched,>60,0.74,0.24,0.16
+7,"Arbel et al, Jan-23",23-Jan,Bivalent vs 0+ (>65yo) Adjusted SSRN Preprint,>65 years (SSRN),0.86,0.9,0.12
+8,"Arbel et al, Apr-23",23-Apr,Bivalent vs 0+ (>65yo) Adjusted Lancet Published,>65 years (Lancet),0.68,0.26,0.14
